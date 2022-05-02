@@ -1,6 +1,6 @@
-# Doctorado
+# Estimación de precipitación con radar (QPE)
 
-En este repositorio se encuentran los scripts para obtener los resultados de la tesis doctoral de Romina Mezher.
+En este repositorio se encuentran los scripts para obtener estimación de precipitación con radar (QPE). Este desarrollo deriva de lo estudiado y obtenido en la tesis doctoral de Romina Mezher.
 
 1) **mascara.py**: genera un archivo nc con los datos de los radares enmascarados de ecos no meteorologicos. La entrada es un archivo .vol de radares Gematronik.
 
